@@ -1,0 +1,7 @@
+name: SkVote
+version: '1.0'
+main: space.ashalinux.skvote.Main
+api-version: '1.13'
+author: Ashalinux
+description: A minimalist, high-performance Votifier replacement for Skript users.
+depend: [Skript]
